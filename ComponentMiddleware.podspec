@@ -33,7 +33,7 @@ TODO: Add long description of the pod here.
   s.source_files = 'ComponentMiddleware/Classes/**/*'
   
   # s.resource_bundles = {
-  #   'ComponentMiddleware' => ['ComponentMiddleware/Assets/*.png']
+  #   'ComponentMiddleware' => ['ComponentMiddleware/Assets/**/*.png']
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'

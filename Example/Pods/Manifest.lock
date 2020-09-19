@@ -1,0 +1,16 @@
+PODS:
+  - ComponentMiddleware (0.1.0)
+
+DEPENDENCIES:
+  - ComponentMiddleware (from `../`)
+
+EXTERNAL SOURCES:
+  ComponentMiddleware:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ComponentMiddleware: 36c482e0c1a6d126bef95f8f543bddf2b80c3107
+
+PODFILE CHECKSUM: d28b9f8b65aed5e78e11dd2168327deef5deba16
+
+COCOAPODS: 1.9.1
