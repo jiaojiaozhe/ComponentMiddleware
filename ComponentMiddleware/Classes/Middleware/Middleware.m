@@ -59,7 +59,7 @@ NSString* const kCTMediatorParamsKeySwiftTargetModuleName = @"kCTMediatorParamsK
     if(moduleName.length > 0){
         targetClassString = [NSString stringWithFormat:@"%@.Target_%@",moduleName,targetName];
     }else{
-        targetClassString = [NSString stringWithFormat:@"Target.%@",targetName];
+        targetClassString = [NSString stringWithFormat:@"Target_%@",targetName];
     }
     
     NSObject *target = self.cachedTarget[targetClassString];

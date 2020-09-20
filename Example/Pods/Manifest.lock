@@ -1,5 +1,5 @@
 PODS:
-  - ComponentMiddleware (0.1.0)
+  - ComponentMiddleware (0.0.3)
 
 DEPENDENCIES:
   - ComponentMiddleware (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ComponentMiddleware: 36c482e0c1a6d126bef95f8f543bddf2b80c3107
+  ComponentMiddleware: 5b709b598b8cadb2fccb408ed7177cb7ffe7ad16
 
 PODFILE CHECKSUM: d28b9f8b65aed5e78e11dd2168327deef5deba16
 

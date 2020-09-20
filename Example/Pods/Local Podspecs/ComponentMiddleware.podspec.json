@@ -1,19 +1,19 @@
 {
   "name": "ComponentMiddleware",
-  "version": "0.1.0",
-  "summary": "A short description of ComponentMiddleware.",
-  "description": "TODO: Add long description of the pod here.",
+  "version": "0.0.3",
+  "summary": "中间件组件",
+  "description": "中间件组件",
   "homepage": "https://github.com/jiaojiaozhe/ComponentMiddleware",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "jiaojiaozhe": "lanbiao@zhihuihutong.com"
+    "jiaojiaozhe": "bluebiao@163.com"
   },
   "source": {
     "git": "https://github.com/jiaojiaozhe/ComponentMiddleware.git",
-    "tag": "0.1.0"
+    "tag": "0.0.3"
   },
   "platforms": {
     "ios": "8.0"
