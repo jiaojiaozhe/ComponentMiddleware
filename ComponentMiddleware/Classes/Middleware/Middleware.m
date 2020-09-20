@@ -68,7 +68,7 @@ NSString* const kCTMediatorParamsKeySwiftTargetModuleName = @"kCTMediatorParamsK
         target = [[targetClass alloc] init];
     }
     
-    NSString *actionString = [NSString stringWithFormat:@"Action_%@",actionName];
+    NSString *actionString = [NSString stringWithFormat:@"Action_%@:",actionName];
     SEL action = NSSelectorFromString(actionString);
     
     if(target == nil){
